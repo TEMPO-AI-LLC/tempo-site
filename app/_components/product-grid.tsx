@@ -13,17 +13,10 @@ type Product = {
 const products: Product[] = [
   {
     index: "01",
-    name: "LOVALINGO",
-    description: "Translation tool",
-    href: "https://lovalingo.com",
-    domain: "lovalingo.com",
-  },
-  {
-    index: "02",
-    name: "ELSON AI",
-    description: "Local-first macOS voice assistant",
-    href: "https://github.com/TEMPO-AI-LLC/elson.ai",
-    domain: "github.com/TEMPO-AI-LLC/elson.ai",
+    name: "ELSON",
+    description: "The AI outbound agent: signals, one-to-one emails, your approval",
+    href: "https://elson.ai",
+    domain: "elson.ai",
   },
 ];
 
@@ -45,7 +38,7 @@ export function ProductGrid() {
     <section className="products" aria-labelledby="products-title">
       <div className="section-heading">
         <span id="products-title">PRODUCTS</span>
-        <span>02</span>
+        <span>01</span>
       </div>
 
       <div className="product-grid">

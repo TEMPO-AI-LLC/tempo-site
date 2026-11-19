@@ -6,8 +6,7 @@ AI products that help teams scale faster.
 
 ## Products
 
-- [LOVALINGO](https://lovalingo.com) - Translation tool
-- [ELSON AI](https://github.com/TEMPO-AI-LLC/elson.ai) - Local-first macOS voice assistant
+- [ELSON](https://elson.ai) - AI outbound agent
 
 ## Contact
 
